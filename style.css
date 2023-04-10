@@ -1,0 +1,71 @@
+body{
+    background-color: #684BB1;
+    background-image: url(images/bg-desktop.svg);
+}
+.logo{
+    margin-top: 38px;
+    margin-left: 40px;
+    width: 120px;
+}
+.clas{
+    margin-top: 70px;
+    border-radius:5.83px ;
+    width: 304px;
+    margin: auto;
+
+}
+.main{
+line-height: 36px;
+text-align: center;
+color: #FFFFFF;
+font-size: 24px;
+font-weight: 600;
+}
+.illustration{
+    width: 296px;
+}
+.Huddle{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #ffffff;
+}
+.line{
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+}
+.botom{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+}
+.fa{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+footer{
+    display: flex;
+    gap: 11px;
+    justify-content: center;
+    margin-top: 64px;
+}
+i{
+    color: #FFFFFF;
+}
+
